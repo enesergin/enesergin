@@ -8,6 +8,6 @@
 
 <div align="center">
  <a href="https://github.com/enesergin/">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesergin&theme=apprentice&show_icons=true&hide_border=true" height="225" alt="enesergin"/>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=apprentice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="225" alt="enesergin"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesergin&theme=nightowl&show_icons=true&hide_border=true" height="225" alt="enesergin"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="225" alt="enesergin"/>
  </div>
