@@ -9,5 +9,5 @@
 <div align="center">
  <a href="https://github.com/enesergin/">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesergin&theme=nightowl&show_icons=true&hide_border=false" height="225" alt="enesergin"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="225" alt="enesergin"/>
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
  </div>
