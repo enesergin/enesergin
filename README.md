@@ -7,7 +7,6 @@
 - 📫 Reach me at: enesergin1204@hotmail.com
 
 <div align="center">
- <a href="https://github.com/enesergin/">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesergin&theme=nightowl&show_icons=true&hide_border=false" height="225" alt="enesergin"/>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly">
- </div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesergin&theme=nightowl&show_icons=true&hide_border=false" height="225" alt="enesergin's most used languages"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" height="225" alt="enesergin's streak stats">
+</div>
