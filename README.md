@@ -11,6 +11,6 @@
    <img src="http://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" height="225" alt="enesergin's streak stats">
 </div>
 
-<div align"center">
+<div align="center">
     <img src="https://img.shields.io/badge/.NET-031627?style=for-the-badge&logo=dotnet&logoColor=feeb95&labelColor=c792ea"/>
 </div>
