@@ -14,11 +14,12 @@
 <div align="center">
     <img src="https://img.shields.io/badge/.NET-031627?style=for-the-badge&logo=dotnet&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/C%20Sharp-031627?style=for-the-badge&logo=csharp&logoColor=feeb95&labelColor=c792ea"/>
-    <img src="https://img.shields.io/badge/Java-031627?style=for-the-badge&logo=java&logoColor=feeb95&labelColor=c792ea"/>
+    <img src="https://img.shields.io/badge/Java-031627?style=for-the-badge&logo=joplin&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/JavaScript-031627?style=for-the-badge&logo=javascript&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/Python-031627?style=for-the-badge&logo=python&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/HTML-031627?style=for-the-badge&logo=html5&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/CSS-031627?style=for-the-badge&logo=css3&logoColor=feeb95&labelColor=c792ea"/>
+<br>
     <img src="https://img.shields.io/badge/React-031627?style=for-the-badge&logo=react&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/Linux-031627?style=for-the-badge&logo=linux&logoColor=feeb95&labelColor=c792ea"/>
     <img src="https://img.shields.io/badge/SQL-031627?style=for-the-badge&logo=mysql&logoColor=feeb95&labelColor=c792ea"/>
