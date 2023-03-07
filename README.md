@@ -12,5 +12,5 @@
 </div>
 
 <div align"center">
-    https://img.shields.io/badge/dotnet%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2
+    <img src="https://img.shields.io/badge/dotnet%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2"/>
 </div>
