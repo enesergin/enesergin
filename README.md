@@ -9,5 +9,5 @@
 <br><br>
 
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5" alt="GitHub Streak" /></a>
 </div>
