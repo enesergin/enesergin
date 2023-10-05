@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Enes Ergin</h1><br>
 
-<!--
-**enesergin/enesergin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  💼 Backend-developer at Digitale Medier 1881 AS 💼   
+  <br><br>
+  📫 Reach me at: enesergin1204@hotmail.com 📫
+</div>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=enesergin&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
+</div>
