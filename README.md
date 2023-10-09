@@ -9,5 +9,5 @@
 <br><br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=enesergin&theme=nightowl&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=enesergin&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
